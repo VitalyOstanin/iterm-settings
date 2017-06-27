@@ -5,6 +5,14 @@
       "Guid": "d51d92b4-0f67-4578-8d2a-0c58e0feb8fd",
       "Dynamic Profile Parent Name": "Default",
       "Keyboard Map" : {
+        "0xf703-0x380000" : {
+          "Text" : "",
+          "Action" : 39
+        },
+        "0xf702-0x380000" : {
+          "Text" : "",
+          "Action" : 32
+        },
         "0xf728-0x80000" : {
           "Text" : "d",
           "Action" : 10

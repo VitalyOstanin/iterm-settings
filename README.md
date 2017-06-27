@@ -30,6 +30,10 @@ Selection:
 * `⌥⇧Arrow` - move start of selection by char or line
 * `⌘⇧Arrow` - move end of selection by char or line
 
+Navigation:
+* `⌥⌘←` cycle tabs left
+* `⌥⌘→` cycle tabs right
+
 # Note for zsh users
 
 `⌘⌫` mapped to Ctrl-u, which is bound to `kill-whole-line` by default. Try
