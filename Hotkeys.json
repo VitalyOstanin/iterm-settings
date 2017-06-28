@@ -7,11 +7,11 @@
       "Keyboard Map" : {
         "0xf703-0x380000" : {
           "Text" : "",
-          "Action" : 39
+          "Action" : 0
         },
         "0xf702-0x380000" : {
           "Text" : "",
-          "Action" : 32
+          "Action" : 2
         },
         "0xf728-0x80000" : {
           "Text" : "d",
