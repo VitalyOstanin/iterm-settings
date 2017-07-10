@@ -33,6 +33,8 @@ Selection:
 Navigation:
 * `⌥⌘←` cycle tabs left
 * `⌥⌘→` cycle tabs right
+* `⌘^←` move tab left
+* `⌘^→` move tab right
 
 # Note for zsh users
 
